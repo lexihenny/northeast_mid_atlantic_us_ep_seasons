@@ -3,11 +3,14 @@ A collection of scripts used to analyze the days that produce the most extreme p
 
 Script names and functions are listed below *in order*.  
 
+ar_detection - detects ARs based on criteria outlined in paper
 ar_precip_sensitivity - determines sensitivity of various precipitation metrics to AR closeness
 tc_precip_sensitivity - determines sensitivity of various precipitation metrics to TC closeness
 
 station_extreme_precip_overview_geotrends - plots trends in season total 95th percentile precipitation at each station in each season
 station_extreme_precip_line_plots - plots time series of spatially-averaged seasonal amount of top 95% precipitation (with trend significance information)
+
+station_precip_wtype_classifications - classified each precipitation observation at each station into one of 11 weather types
 station_extreme_precip_wtype_geotrends - plots trends in season total 95th percentile precipitation at each station in each season for various weather types
 
 ep_days_define - choose stations with 95% completeness; define EP days for a range of threshold combinations
