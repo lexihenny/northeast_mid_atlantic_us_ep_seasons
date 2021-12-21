@@ -3,7 +3,7 @@ A collection of scripts used to analyze the days that produce the most extreme p
 
 Script names and functions are listed below *in order*.  
 
-ar_detection - detects ARs based on criteria outlined in paper  
+#ar_detection# - detects ARs based on criteria outlined in paper  
 ar_precip_sensitivity - determines sensitivity of various precipitation metrics to AR closeness  
 tc_precip_sensitivity - determines sensitivity of various precipitation metrics to TC closeness  
 
